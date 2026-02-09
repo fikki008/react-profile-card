@@ -1,0 +1,17 @@
+
+.card-container{
+  min-width: 400px;
+ 
+ 
+   border-radius: 10px;
+ overflow: hidden;
+ box-shadow: 10px 10px 10px rgba(0, 0, 54, 0.77);
+ 
+}
+
+@media(max-width: 500px){
+  .card-container{
+    min-width: 350px;
+  }
+  
+}
