@@ -27,4 +27,4 @@ This project was created to practice React fundamentals such as components, prop
 ## Links
 [GitHub Repository]()
 
-[Live Site]()
+[Live Site](https://fikki008-react-profile-card.netlify.app/)
